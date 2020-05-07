@@ -7,7 +7,7 @@
 
         <?php
             echo "<p>Doesn't PHP seem like the funnest langauge to learn?
-            As far as I understand, PHP is an extension of the Apache webserver.
+            as far as I understand, PHP is an extension of the Apache webserver.
             Downloading XAMPP and getting it up and running was a pain, but a good
             taste of what things in the real programming world will be like.
             I want to learn PHP to challenge myself, I want to learn it to make server-
